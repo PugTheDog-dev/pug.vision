@@ -9,4 +9,5 @@ composer.phar
 .DS_Store
 
 # Ingore src directory
-/src/
+/src/.DS_Store
+src
